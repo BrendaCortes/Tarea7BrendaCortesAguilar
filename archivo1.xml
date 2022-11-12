@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<seriesNetflix>
+   
+   <serie>
+      <titulo>Misa de medianoche</titulo>
+      <categoria>Terror</categoria>
+      <ano> 2021</ano>
+      <fechas>
+          <fecha>Incio 24 de septiembre de 2021</fecha>
+          <fecha>Termino 04 de octubre de 2021</fecha> 
+      </fechas>
+      <temporadas>1</temporadas>
+      <episodios>7</episodios>
+      <productor>Jeff Howard</productor>
+      <autor>Mike Flanagan</autor>
+      <reparto>
+         <nombre>Zach Gilford</nombre>
+         <nombre>Kate Siegel</nombre>
+         <nombre>Hamish Linklater</nombre>
+         <nombre>Annabeth Gish</nombre>
+      </reparto>
+   </serie>  
+
+   <serie>
+      <titulo>Breaking Bad</titulo>
+      <categoria>Crimen</categoria>
+      <ano>2008</ano>
+      <fechas>
+          <fecha>20 de enero de 2008</fecha>
+          <fecha>29 de septiembre de 2013</fecha> 
+      </fechas>
+      <temporadas>5</temporadas>
+      <episodios>62</episodios>
+      <productor>Vince Gilligan</productor>
+      <autor>Vince Gilligan</autor>
+      <reparto>
+         <nombre>Bryan Cranston</nombre>
+         <nombre>Aaron Paul</nombre>
+         <nombre>Bob Odenkirk</nombre>
+         <nombre>Giancarlo Esposito</nombre>
+      </reparto>
+   </serie>    
+
+   <serie>
+      <titulo>Lucifer</titulo>
+      <categoria>Misterio</categoria>
+      <ano>2016</ano>
+      <fechas>
+          <fecha>Inicio 25 de enero de 2016</fecha>
+          <fecha>Final 10 de septiembre de 2021</fecha> 
+      </fechas>
+      <temporadas>6</temporadas>
+      <episodios>93</episodios>
+      <productor>Jerry Bruckheimer</productor>
+      <autor>Tom Kapinos</autor>
+      <reparto>
+         <nombre>Tom Ellis</nombre>
+         <nombre>Lauren German</nombre>
+         <nombre>Lesley-Ann Brandt</nombre>
+         <nombre>D.B. Woodside</nombre>
+      </reparto>
+   </serie>    
+   
+     <serie>
+      <titulo>Stranger Things</titulo>
+      <categoria>Misterio</categoria>
+      <ano>2016</ano>
+      <fechas>
+          <fecha>Inicio 15 de Julio de 2016</fecha>
+          <fecha>Final 01 de Junio de 2021</fecha> 
+      </fechas>
+      <temporadas>4</temporadas>
+      <episodios>34</episodios>
+      <productor>Shawn Levy Dan Cohen</productor>
+      <autor>Matt y Ross Duffer</autor>
+      <reparto>
+         <nombre>Millie Bobby Brown</nombre>
+         <nombre>Finn Wolfhard</nombre>
+         <nombre>Noah Schnapp</nombre>
+         <nombre>Caleb McLaughlin</nombre>
+         <nombre>Sadie Sink</nombre>
+         <nombre>Gaten Matarazzo</nombre>
+      </reparto>
+   </serie>   
+    
+      <serie>
+      <titulo>La maldición de Hill House</titulo>
+      <categoria>Terror</categoria>
+      <ano>2018</ano>
+      <fechas>
+          <fecha>Inicio 12 de octubre de 2018</fecha>
+          <fecha>Fin 12 de octubre de 2018</fecha> 
+      </fechas>
+      <temporadas>1</temporadas>
+      <episodios>10</episodios>
+      <productor> Mike Flanagan</productor>
+      <autor>Mike Flanagan</autor>
+      <reparto>
+         <nombre>Olive Abercrombie</nombre>
+         <nombre>Robert Longstreet</nombre>
+      </reparto>
+   </serie>
+
+
+</seriesNetflix>
+
+	
